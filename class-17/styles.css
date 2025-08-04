@@ -1,0 +1,35 @@
+.container{
+    width: 35px;
+    height: 35px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-radius: 5px;
+    padding: 8px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;    
+}
+
+.container div {
+    width: 30%;
+    height: 10px; 
+}
+
+
+.special {
+
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 10px;
+    width: 27.2%;
+    height: 9px;
+} 
+.special1{
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 10px;
+    width: 27.2%;
+    height: 9px;
+}
